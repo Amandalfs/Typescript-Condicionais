@@ -4,7 +4,7 @@
   "description": "Aqui estão 10 exercícios de TypeScript para ajudá-lo a praticar suas habilidades com condicionais:",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch exercicio9/exercicio9.ts",
+    "dev": "tsx watch exercicio10/exercicio10.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
